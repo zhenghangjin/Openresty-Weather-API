@@ -19,5 +19,5 @@
 ## 程序运行效果
 
 * 先开启 nginx 服务器
-* 浏览器访问：http://ip:80/weather，默认打印出 “北京” 的天气预报的 Json 字符串
-* 浏览器访问：http://ip:80/weather?city=shanghai，打印出 “上海” 的天气预报的 Json 字符串
+* 浏览器访问：`http://ip:80/weather` 默认打印出 “北京” 的天气预报的 Json 字符串
+* 浏览器访问：`http://ip:80/weather?city=shanghai` 打印出 “上海” 的天气预报的 Json 字符串
