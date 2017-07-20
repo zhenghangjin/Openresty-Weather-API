@@ -1,6 +1,6 @@
 # Openresty-Weather-API
 
-这是使用Openresty（Nginx+Lua）搭建的 Web 服务，在第三方天气预报 API 的基础上做一层简单的封装，实现自定义的天气预报 API 的功能。
+这是使用Openresty（Nginx+Lua）搭建的 Web 服务程序，在第三方天气预报 API 的基础上做一层简单的封装，实现自定义的天气预报 API 的功能。
 
 
 ## 服务搭建步骤
